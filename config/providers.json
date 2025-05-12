@@ -1,0 +1,24 @@
+{
+	"providers": [
+		{
+			"name": "Helius",
+			"endpoint": "https://mainnet.helius-rpc.com",
+			"envKeyPrefix": "HELIUS"
+		},
+		{
+			"name": "QuickNode",
+			"endpoint": "https://api.mainnet-beta.solana.com",
+			"envKeyPrefix": "QUICKNODE"
+		},
+		{
+			"name": "Triton",
+			"endpoint": "https://triton.rpcpool.com",
+			"envKeyPrefix": "TRITON"
+		},
+		{
+			"name": "Public RPC",
+			"endpoint": "https://api.mainnet-beta.solana.com",
+			"envKeyPrefix": "PUBLIC"
+		}
+	]
+}
